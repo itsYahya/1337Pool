@@ -1,0 +1,6 @@
+Credentials cache: API:8841103E-0D06-46BB-8170-E8351A6FD059
+        Principal: yel-mrab@1337.MA
+
+  Issued                Expires             Flags    Principal
+Sep 22 09:27:30 2021  Sep 22 19:27:30 2021  FPRIA  krbtgt/1337.MA@1337.MA
+Sep 22 09:27:32 2021  Sep 22 19:27:30 2021  FPA    HTTP/iscsi.1337.ma@1337.MA
